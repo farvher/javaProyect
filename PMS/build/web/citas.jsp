@@ -12,6 +12,8 @@
             $(document).ready(function() {
                 document.getElementById("pagina").innerHTML = ("Psicologo - Citas");
             });
+            
+            
         </script>
     </head>
     <body>
